@@ -16,7 +16,7 @@
 
 #include "mutex.h"
 #include "net/af.h"
-#include "sys/include/net/udp.h"
+#include "include/net/udp.h"
 #include "net/gnrc/conn.h"
 #include "net/gnrc/ipv6.h"
 #include "net/gnrc/rpl.h"
